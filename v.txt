@@ -1,0 +1,727 @@
+Practical 1 — HTML Text Formatting Tags
+
+Viva Questions
+
+Q1. What is HTML?
+
+HTML stands for HyperText Markup Language.
+
+It is used to create web pages.
+
+
+Q2. What is a tag in HTML?
+
+Tags are special keywords enclosed in < >.
+
+Example: <h1>, <p>.
+
+
+Q3. Difference between <b> and <strong>?
+
+<b> makes text bold.
+
+<strong> gives importance to text.
+
+
+Q4. Use of <i> tag?
+
+Makes text italic.
+
+
+Q5. Use of <u> tag?
+
+Underlines text.
+
+
+Q6. What is the use of <sub>?
+
+Displays subscript text.
+
+Example: H₂O.
+
+
+Q7. What is the use of <sup>?
+
+Displays superscript text.
+
+Example: x².
+
+
+Q8. What is <hr> tag?
+
+Creates horizontal line.
+
+
+Q9. What is <br> tag?
+
+Moves content to next line.
+
+
+Q10. What is the purpose of <title> tag?
+
+Sets webpage title on browser tab.
+
+
+
+==================================================================================================================
+
+Practical 2 — Image, Hyperlink and Nested Table
+
+Viva Questions
+
+Q1. What is hyperlink?
+
+Link used to open another webpage.
+
+
+Q2. Which tag is used for hyperlink?
+
+<a> tag.
+
+
+Q3. What is href?
+
+Hyper Reference.
+
+Stores webpage address.
+
+
+Q4. Which tag is used to display image?
+
+<img> tag.
+
+
+Q5. What is src in image tag?
+
+Source of image file.
+
+
+Q6. What is nested table?
+
+Table inside another table.
+
+
+Q7. Difference between <tr> and <td>?
+
+<tr> = table row.
+
+<td> = table data.
+
+
+Q8. What is <th>?
+
+Table heading.
+
+
+Q9. Use of border attribute?
+
+Adds border to table.
+
+
+Q10. Difference between absolute and relative path?
+
+Absolute → full path.
+
+Relative → current folder path.
+
+
+
+=============================================================================================================
+
+Practical 3 — HTML Form
+
+Viva Questions
+
+Q1. What is form?
+
+Used to collect user information.
+
+
+Q2. Which tag creates form?
+
+<form> tag.
+
+
+Q3. What is input tag?
+
+Used to take user input.
+
+
+Q4. What is placeholder?
+
+Hint text inside textbox.
+
+
+Q5. Difference between radio button and checkbox?
+
+Radio → one option.
+
+Checkbox → multiple options.
+
+
+Q6. What is password field?
+
+Hides typed characters.
+
+
+Q7. Which input type is used for date?
+
+type="date".
+
+
+Q8. What is dropdown list?
+
+Select menu using <select> tag.
+
+
+Q9. What is submit button?
+
+Sends form data.
+
+
+Q10. What is reset button?
+
+Clears all form data.
+
+
+
+=============================================================================================================
+
+Practical 4 — CSS
+
+Viva Questions
+
+Q1. What is CSS?
+
+CSS stands for Cascading Style Sheets.
+
+Used for webpage styling.
+
+
+Q2. Types of CSS?
+
+1. Inline CSS
+
+
+2. Internal CSS
+
+
+3. External CSS
+
+
+
+Q3. What is inline CSS?
+
+CSS written inside HTML tag.
+
+
+Q4. What is internal CSS?
+
+CSS written inside <style> tag.
+
+
+Q5. What is external CSS?
+
+CSS stored in separate .css file.
+
+
+Q6. Which CSS has highest priority?
+
+Inline CSS.
+
+
+Q7. What is selector?
+
+Selects HTML element for styling.
+
+
+Q8. Use of background-color?
+
+Changes background color.
+
+
+Q9. Use of font-family?
+
+Changes font style.
+
+
+Q10. What is advantage of external CSS?
+
+Reuse styling in multiple pages.
+
+
+
+---
+=========================================================================================================
+Practical 5 — Bootstrap
+
+Viva Questions
+
+Q1. What is Bootstrap?
+
+Bootstrap is a CSS framework for responsive design.
+
+
+Q2. What is responsive webpage?
+
+Adjusts according to screen size.
+
+
+Q3. What is Grid System?
+
+Layout system using rows and columns.
+
+
+Q4. Purpose of container class?
+
+Provides spacing and alignment.
+
+
+Q5. What is row class?
+
+Creates horizontal row.
+
+
+Q6. What is column class?
+
+Divides webpage into sections.
+
+
+Q7. What is col-md-4?
+
+Creates responsive column for medium screens.
+
+
+Q8. What is Bootstrap button class?
+
+btn.
+
+
+Q9. What is alert component?
+
+Displays important message.
+
+
+Q10. Advantage of Bootstrap?
+
+Faster and responsive webpage design.
+
+
+
+---===========================================================================================================
+
+Practical 6 — JavaScript Validation
+
+Viva Questions
+
+Q1. What is JavaScript?
+
+Scripting language used for dynamic webpages.
+
+
+Q2. What is validation?
+
+Checking user input before submission.
+
+
+Q3. Why validation is important?
+
+Prevents wrong or empty data.
+
+
+Q4. What is function?
+
+Block of reusable code.
+
+
+Q5. Use of alert()?
+
+Displays popup message.
+
+
+Q6. Use of getElementById()?
+
+Accesses HTML element using ID.
+
+
+Q7. What is DOM?
+
+DOM stands for Document Object Model.
+
+
+Q8. What is .value?
+
+Gets textbox value.
+
+
+Q9. Difference between = and ==?
+
+= assignment.
+
+== comparison.
+
+
+Q10. What is event?
+
+Action like click or keypress.
+
+
+
+---==================================================================================================
+
+Practical 7 — DOM Manipulation
+
+Viva Questions
+
+Q1. Full form of DOM?
+
+Document Object Model.
+
+
+Q2. What is DOM?
+
+Structure representation of webpage.
+
+
+Q3. Use of innerHTML?
+
+Changes webpage content dynamically.
+
+
+Q4. Use of style.color?
+
+Changes text color.
+
+
+Q5. Use of onclick?
+
+Executes function on button click.
+
+
+Q6. What is dynamic content?
+
+Content changing without reloading page.
+
+
+Q7. What is event handling?
+
+Handling user actions.
+
+
+Q8. Difference between static and dynamic webpage?
+
+Static → fixed content.
+
+Dynamic → changing content.
+
+
+Q9. What is script tag?
+
+Contains JavaScript code.
+
+
+Q10. Advantage of JavaScript?
+
+Makes webpage interactive.
+
+
+
+---
+==============================================================================================================
+Practical 8 — JavaScript Calculator
+
+Viva Questions
+
+Q1. What is switch case?
+
+Selection statement for multiple conditions.
+
+
+Q2. Use of break?
+
+Stops switch execution.
+
+
+Q3. What is parseInt()?
+
+Converts string into integer.
+
+
+Q4. Why use functions?
+
+Reuse code.
+
+
+Q5. What is operator?
+
+Symbol for operation.
+
+Example: +, -, *, /.
+
+
+Q6. Difference between == and ===?
+
+== compares value.
+
+=== compares value and datatype.
+
+
+Q7. What is arithmetic operator?
+
+Performs mathematical operations.
+
+
+Q8. Use of innerHTML?
+
+Displays result dynamically.
+
+
+Q9. What is variable?
+
+Stores data value.
+
+
+Q10. Difference between let and var?
+
+Both declare variables.
+
+let is modern and safer.
+
+
+
+---=================================================================================================================
+
+Practical 9 — PHP Welcome Message
+
+Viva Questions
+
+Q1. What is PHP?
+
+PHP stands for Hypertext Preprocessor.
+
+
+Q2. Is PHP client-side or server-side?
+
+Server-side scripting language.
+
+
+Q3. What is echo?
+
+Displays output.
+
+
+Q4. How does PHP code start?
+
+<?php
+
+
+Q5. How does PHP code end?
+
+?>
+
+
+Q6. Use of date() function?
+
+Displays current date/time.
+
+
+Q7. What is server?
+
+Computer that provides services/data.
+
+
+Q8. Difference between HTML and PHP?
+
+HTML → static.
+
+PHP → dynamic.
+
+
+Q9. What is dynamic webpage?
+
+Webpage changing according to data.
+
+
+Q10. File extension of PHP?
+
+.php
+
+
+
+---=============================================================================================================
+
+Practical 10 — PHP POST Method
+
+Viva Questions
+
+Q1. What is POST method?
+
+Sends data securely to server.
+
+
+Q2. Difference between GET and POST?
+
+GET → data visible in URL.
+
+POST → data hidden.
+
+
+Q3. What is action attribute?
+
+Specifies destination file.
+
+
+Q4. What is method attribute?
+
+Specifies data transfer method.
+
+
+Q5. What is superglobal variable?
+
+Built-in PHP variable accessible everywhere.
+
+
+Q6. What is $_POST?
+
+Stores form data sent using POST.
+
+
+Q7. Why POST is secure?
+
+Data hidden from URL.
+
+
+Q8. Can POST send large data?
+
+Yes.
+
+
+Q9. What is form handling?
+
+Receiving and processing form data.
+
+
+Q10. Why use forms?
+
+To collect user information.
+
+
+
+---=======================================================================================================
+
+Practical 11 — PHP String Manipulation
+
+Viva Questions
+
+Q1. What is string?
+
+Collection of characters.
+
+
+Q2. Use of strlen()?
+
+Finds string length.
+
+
+Q3. Use of strrev()?
+
+Reverses string.
+
+
+Q4. Use of substr()?
+
+Extracts part of string.
+
+
+Q5. What is concatenation?
+
+Joining strings.
+
+
+Q6. Which operator is used for concatenation in PHP?
+
+Dot . operator.
+
+
+Q7. What is datatype?
+
+Type of data stored.
+
+
+Q8. Examples of datatypes?
+
+Integer, String, Float, Boolean.
+
+
+Q9. What is variable?
+
+Stores value.
+
+
+Q10. What is function in PHP?
+
+Reusable block of code.
+
+
+===================================================================================================================
+---
+
+Practical 12 — PHP Array
+
+Viva Questions
+
+Q1. What is array?
+
+Stores multiple values in one variable.
+
+
+Q2. Types of arrays in PHP?
+
+1. Indexed Array
+
+
+2. Associative Array
+
+
+3. Multidimensional Array
+
+
+
+Q3. What is indexed array?
+
+Array with numeric index.
+
+
+Q4. What is associative array?
+
+Array with named keys.
+
+
+Q5. What is multidimensional array?
+
+Array inside another array.
+
+
+Q6. What is loop?
+
+Repeats statements.
+
+
+Q7. What is for loop?
+
+Executes code multiple times.
+
+
+Q8. What is indexing?
+
+Position number starting from 0.
+
+
+Q9. Use of echo?
+
+Displays output.
+
+
+Q10. Advantage of arrays?
+
+Stores multiple values easily.
